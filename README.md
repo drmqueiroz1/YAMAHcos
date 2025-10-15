@@ -2,6 +2,10 @@
 
 # 🎹 YAMAHcos Piano Virtual
 
+<div align="center">
+  <img src=".png" alt="">
+</div>
+
 Um piano virtual interativo e responsivo que permite tocar usando o teclado do seu computador. Perfeito para uma diversão rápida e para praticar suas habilidades musicais em qualquer lugar!
 
 ✨ Features
